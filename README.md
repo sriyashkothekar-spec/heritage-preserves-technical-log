@@ -14,3 +14,8 @@ A simulation of a premium e-commerce brand designed to test and document high-le
 * **Issue:** GemPages UI elements failed to render on the live theme.
 * **Diagnosis:** Found the "Theme App Extension" (App Embed) was disabled by default in the Shopify core settings.
 * **Resolution:** Manually activated the **GemPages Theme Helper** in the Shopify Editor, resolving the CSS/JS injection block and enabling the SaaS page builder interface.
+
+### Entry 2: Asset Optimization & Brand Alignment
+* **Issue**: Default theme imagery lacked the "Premium" visual weight required for a high-end e-commerce brand.
+* **Resolution**: Sourced high-resolution editorial assets from specialized e-commerce libraries (Burst/Pexels), focusing on "Product-centric" composition to improve the store's Conversion Rate Optimization (CRO) potential.
+* **Technical Implementation**: Updated the "Hero" section using the Shopify Theme Editor, ensuring focal point alignment for mobile responsiveness.
